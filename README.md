@@ -1,4 +1,4 @@
-# TikTok X-Gorgon
+# TikTok X-Gorgon 0404
 TikTok X-Gorgon and X-Khronos signature generator.
 
 # Example Usage 
